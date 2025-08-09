@@ -2,7 +2,7 @@
 
 **Helping Startups & Unicorns Build Apps | Passionate Flutter Developer | Tech Enthusiast | Mobile App Development Expert/Architect**
 
-I am a **detail-oriented Flutter Developer** with **4+ years** of experience in designing and developing **high-performance, scalable, and secure** cross-platform mobile applications. My expertise spans across **API integration, Firebase services, state management, CI/CD pipelines, and mobile architecture**. I am committed to delivering seamless user experiences and building efficient solutions.
+I am a **detail-oriented Flutter Developer** with **5+ years** of experience in designing and developing **high-performance, scalable, and secure** cross-platform mobile applications. My expertise spans across **API integration, Firebase services, state management, CI/CD pipelines, and mobile architecture**. I am committed to delivering seamless user experiences and building efficient solutions.
 
 ## 💡 About Me
 - 📱 Specializing in **Flutter & Dart**, crafting dynamic and responsive mobile applications.
